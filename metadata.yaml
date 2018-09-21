@@ -1,0 +1,39 @@
+_repo: The-Law-of-the-Sea-A-manual-of-the-principles-of-admiralty-law-for-students-mariners-and-ship__53541
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Canfield, George L. (George Lewis)
+    alias: Canfield, George Lewis
+    birthdate: 1866
+    gutenberg_agent_id: '47425'
+    url: http://www.gutenberg.org/2009/agents/47425
+  - agent_name: Dalzell, George W. (George Walton)
+    alias: Dalzell, George Walton
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '47426'
+    url: http://www.gutenberg.org/2009/agents/47426
+  - agent_name: Brinton, J. Y. (Jasper Yeates)
+    alias: Brinton, Jasper Yeates
+    birthdate: 1878
+    deathdate: 1973
+    gutenberg_agent_id: '47427'
+    url: http://www.gutenberg.org/2009/agents/47427
+description: ''
+gutenberg_issued: '2016-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53541'
+  lccn: '21013228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Admiralty -- United States'
+- !lcsh 'Maritime law -- United States'
+- !lcc 'KF'
+- GITenberg
+title: "The Law of the Sea\r\nA manual of the principles of admiralty law for students,\
+  \ mariners, and ship operators"
+url: http://www.gutenberg.org/ebooks/53541
